@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AshirbakievAR.Sprint0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{EE33E5CF-7714-4427-B87F-729867D30420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AshirbakievAR.Sprint0.Task2.V0", "Tyuiu.AshirbakievAR.Sprint0.Task2.V0\Tyuiu.AshirbakievAR.Sprint0.Task2.V0.csproj", "{8AF1AADF-4CA2-44FA-A0FA-464D9EF075CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AshirbakievAR.Sprint0.Task1.V0", "Tyuiu.AshirbakievAR.Sprint0.Task2.V0\Tyuiu.AshirbakievAR.Sprint0.Task1.V0.csproj", "{8AF1AADF-4CA2-44FA-A0FA-464D9EF075CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
